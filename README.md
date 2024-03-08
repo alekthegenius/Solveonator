@@ -1,2 +1,2 @@
 <h1>Imagine getting rickrolled</h1>
-[![Definetly not Rickroll](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2FdQw4w9WgXcQ)](https://youtu.be/dQw4w9WgXcQ)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ?si=NTD02DY8dAJHrDkW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
