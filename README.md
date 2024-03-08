@@ -1,2 +1,0 @@
-# Solveonator
-Rickroll freinds
